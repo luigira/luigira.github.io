@@ -2,44 +2,11 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image](/assets/images/profile.png)
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>[EN]<h2>
+<p>Luis is an Electronics and Communications Engineer who specialized in Computing, which led to a special focus on software engineering. He also holds a diploma in data science, has projects in web development, and generally possesses a passion for emerging technologies. Currently working as a Research Assistant at CINVESTAV, he specializes in code optimization primarily using the Julia programming language and methodologies specific to Data Science. His technical portfolio spans programming (C++, Python, Julia, OpenGL), fundamentals of artificial intelligence, and computer hardware architecture. He has notable projects as a collaborator in neural activity analysis, graphic shaders that have been merged into the official open-source software repository of RetroArch, as well as personal projects in Linux firmware and web development. A holder of the Microsoft Azure Fundamentals certification and with English proficiency at C1 level, Luis demonstrates technical versatility through academic research, technical support experience, and personal projects. His interdisciplinary background in electronic engineering, combined with software development, places special emphasis on integrating hardware knowledge with software solutions.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>[ES]</h2>
+<p>Luis es un Ingeniero en Comunicaciones y Electrónica, tomó la especialidad en Computo lo que derivo en un enfoque especial en la ingeniería de software, de igual manera cuenta con un diplomado en ciencia de datos, proyectos en desarrollo Web y en general una pasión por tecnologías emergentes. Actualmente se desempeña como Asistente de Investigación en CINVESTAV, donde se especializa en optimización de código utilizando principalmente el lenguaje de programación Julia y metodologías propias de la Ciencia de Datos. Su portafolio técnico abarca programación (C++, Python, Julia, OpenGL), fundamentos de inteligencia artificial y arquitectura de hardware de computadoras,cuenta con algunos proyectos destacables como colaborador en el análisis de actividad neural, shaders gráficos que se encuentran mergeados (fusionados) en el repositorio oficial de software libre de RetroArch asi como proyectos personales de desarrollo de firmware para Linux, Web Development, etc. Es poseedor de la certificación Microsoft Azure Fundamentals y con dominio del inglés a nivel C1, Luis demuestra una versatilidad técnica a través de investigación académica, experiencia en soporte técnico y proyectos personales. Su formación interdisciplinaria en ingeniería electrónica, combinada con desarrollo de software, pone especial énfasis en integrar conocimientos de hardware con soluciones de software.</p>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
