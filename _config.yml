@@ -1,6 +1,8 @@
 # main text of home
 title: Luis Ramos 
 bio: Software Engineering powered by coffee ☕
+description: "Personal Website."
+
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -38,8 +40,8 @@ permalink: /:title/
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: https://www.linkedin.com/in/reynaldo-ramos-87486994/
-github: https://github.com/luigira
+linkedin: reynaldo-ramos-87486994/
+github: luigira
 email:  luis.rgz@icloud.com
 
 #authors:
