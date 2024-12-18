@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image](/assets/images/profile.png)
 
-<h2>[EN]<h2>
+<h2>[EN]</h2>
 <p>Luis is an Electronics and Communications Engineer who specialized in Computing, which led to a special focus on software engineering. He also holds a diploma in data science, has projects in web development, and generally possesses a passion for emerging technologies. Currently working as a Research Assistant at CINVESTAV, he specializes in code optimization primarily using the Julia programming language and methodologies specific to Data Science. His technical portfolio spans programming (C++, Python, Julia, OpenGL), fundamentals of artificial intelligence, and computer hardware architecture. He has notable projects as a collaborator in neural activity analysis, graphic shaders that have been merged into the official open-source software repository of RetroArch, as well as personal projects in Linux firmware and web development. A holder of the Microsoft Azure Fundamentals certification and with English proficiency at C1 level, Luis demonstrates technical versatility through academic research, technical support experience, and personal projects. His interdisciplinary background in electronic engineering, combined with software development, places special emphasis on integrating hardware knowledge with software solutions.</p>
 
 <h2>[ES]</h2>

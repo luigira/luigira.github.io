@@ -8,7 +8,7 @@ bio: Software Engineering powered by coffee ☕
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/profile.png
+picture: /assets/images/profile.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -38,9 +38,9 @@ permalink: /:title/
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/reynaldo-ramos-87486994/
+github: https://github.com/luigira
+email:  luis.rgz@icloud.com
 
 #authors:
 #johndoe:
@@ -69,7 +69,7 @@ about: true
 blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
